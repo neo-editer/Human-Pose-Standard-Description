@@ -13,84 +13,115 @@ Kneeling: The person is supported by one or both knees.
 
 Laying: The person is resting horizontally on a surface.
 
-Prone: Lying on the anterior (stomach) side of the body.
+  Prone: Lying on the anterior (stomach) side of the body.
 
-Supine: Lying on the posterior (back) side of the body.
+  Supine: Lying on the posterior (back) side of the body.
 
-Lateral: Lying on either the left or right lateral side of the body.
+  Lateral: Lying on either the left or right lateral side of the body.
 
 Inverted: The person's head is positioned inferior to their hips. This can be further specified by support:
 
-Handstand: Supported by the hands.
+  Handstand: Supported by the hands.
 
-Headstand: Supported by the head.
+  Headstand: Supported by the head.
 
 ### 2. Anatomical Directional Terms
 These terms are crucial for unambiguous descriptions and are always relative to the standard anatomical position (standing upright, feet together, palms facing forward), regardless of the person's actual pose.
 
-Anterior (Ventral): Towards the front of the body (e.g., chest, stomach).
+  Anterior (Ventral): Towards the front of the body (e.g., chest, stomach).
 
-Posterior (Dorsal): Towards the back of the body (e.g., spine, back).
+  Posterior (Dorsal): Towards the back of the body (e.g., spine, back). 
 
-Superior (Cranial): Towards the head.
+  Superior (Cranial): Towards the head.
 
-Inferior (Caudal): Towards the feet.
+  Inferior (Caudal): Towards the feet.
 
-Medial: Towards the midline of the body.
+  Medial: Towards the midline of the body.
 
-Lateral: Away from the midline of the body.
+  Lateral: Away from the midline of the body.
 
 ### 3. Major Body Area Orientation
 These describe the position and orientation of the core body areas.
 
-Head
+#### Head
 
-Lateral (Left/Right): Head turned to the left or right side.
+  Lateral (Left/Right): Head turned to the left or right side.
 
-Tilted (Left/Right): Ear moving towards the shoulder.
+  Tilted (Left/Right): Ear moving towards the shoulder.
 
-Flexed (Downward): Chin moving towards the chest.
+  Flexed (Downward): Chin moving towards the chest.
 
-Torso
+#### Torso
 
-Upright: Torso is vertically aligned.
+  Upright: Torso is vertically aligned.
 
-Flexed (Anterior): Torso bent forward.
+  Flexed (Anterior): Torso bent forward.
 
-Twisted (Left/Right): Rotation of the torso around its vertical axis.
+  Twisted (Left/Right): Rotation of the torso around its vertical axis.
 
-Lateral Flexion (Left/Right): Torso bending sideways.
+  Lateral Flexion (Left/Right): Torso bending sideways.
 
-Hips
+#### Hips
 
-Adducted (Closed): Legs are close together, towards the midline.
+  Adducted (Closed): Legs are close together, towards the midline.
 
-Abducted (Spread): Legs are moved away from the midline.
+  Abducted (Spread): Legs are moved away from the midline.
 
-Fully Abducted (Fully Spread): Legs are at their maximum spread (e.g., in a split).
+  Fully Abducted (Fully Spread): Legs are at their maximum spread (e.g., in a split).
 
-Flexed: Thighs are lifted towards the torso (e.g., sitting).
+  Flexed: Thighs are lifted towards the torso (e.g., sitting).
 
-Extended: Thighs are moved backward from a flexed position (e.g., standing upright).
+  Extended: Thighs are moved backward from a flexed position (e.g., standing upright).
 
 ### 4. Limb Positions
 Limb positions are described segment by segment, using anatomical terms to specify direction and angle.
 
 Arms (Upper Arm, Forearm, Hand)
 
-Upper Arm (at shoulder joint): Adducted, Abducted (Lateral), Flexed (Anterior), Extended (Posterior), Superior (Overhead), Horizontal Abduction/Adduction.
+#### Upper Arm (at shoulder joint): 
+  Adducted, Abducted (Lateral)
+  Flexed (Anterior), Extended (Posterior)
+  Superior (Overhead)
+  Horizontal Abduction/Adduction.
 
-Forearm (at elbow joint): Fully Extended, Flexed 90°, Fully Flexed, Pronated, Supinated.
+#### Forearm (at elbow joint): 
+  Fully Extended
+  Flexed 90°
+  Fully Flexed
+  Pronated
+  Supinated.
 
-Hand (at wrist joint): Neutral, Flexed (Palmarflexion), Extended (Dorsiflexion), Ulnar Deviation, Radial Deviation, Fisted, Open.
+#### Hand (at wrist joint): 
+  Neutral
+  Flexed (Palmarflexion)
+  Extended (Dorsiflexion)
+  Ulnar Deviation
+  Radial Deviation
+  Fisted
+  Open.
 
 Legs (Thigh, Lower Leg, Foot)
 
-Thigh (at hip joint): Adducted, Abducted, Flexed, Extended, Medial Rotation, Lateral Rotation.
+#### Thigh (at hip joint): 
+  Adducted,
+  Abducted,
+  Flexed,
+  Extended,
+  Medial Rotation,
+  Lateral Rotation.
+  
+#### Lower Leg (at knee joint): 
+  Fully Extended,
+  Flexed 90°,
+  Fully Flexed.
 
-Lower Leg (at knee joint): Fully Extended, Flexed 90°, Fully Flexed.
-
-Foot (at ankle joint): Plantarflexed, Dorsiflexed, Inverted, Everted, Planted, Tip-toed.
+#### Foot (at ankle joint):
+  Plantarflexed,
+  Dorsiflexed,
+  Inverted,
+  Everted,
+  Planted,
+  Tip-toed.
 
 ## 5. Clarifying Spatial Relationships
 When describing the position of objects relative to a person, always use the anatomical directional terms to avoid ambiguity from different viewing angles.
